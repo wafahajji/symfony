@@ -1,0 +1,4 @@
+wafa:
+    resource: "@wafaBundle/Resources/config/routing.yml"
+    prefix:   /
+
